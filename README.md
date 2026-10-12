@@ -1,0 +1,1 @@
+# mcsmanager-minecraft-hosting
